@@ -3,7 +3,9 @@
 Twig Blocks are chunks of code that twig identifies as being variable. These are independant of Drupal and different from Drupal Blocks. Once a twig block has been identified in your parent template then it can be overridden in a more specific template without having the full template duplicated with a small change, example html.html.twig overridden by html--node--article.html.twig. 
 
 Some resources:
+
 https://ffwagency.com/digital-strategies-blog/power-extending-twig-templates
+
 http://running-on-drupal8.co.uk/blog/twig-blocks-drupal
 
 
